@@ -1,0 +1,31 @@
+product_id,product_name,category,unit_price
+P001,Wireless Headphones,Electronics,2499
+P002,Bluetooth Speaker,Electronics,1999
+P003,Smart Watch,Electronics,3499
+P004,Power Bank,Electronics,1299
+P005,USB-C Cable,Electronics,499
+P006,Running Shoes,Fashion,2999
+P007,Casual Sneakers,Fashion,2499
+P008,Backpack,Fashion,1799
+P009,T-Shirt,Fashion,899
+P010,Jeans,Fashion,1899
+P011,Coffee Maker,Home,3299
+P012,Air Fryer,Home,4999
+P013,Desk Lamp,Home,1499
+P014,Bedsheet Set,Home,1299
+P015,Water Bottle,Home,699
+P016,Protein Shaker,Fitness,599
+P017,Yoga Mat,Fitness,999
+P018,Resistance Bands,Fitness,799
+P019,Dumbbell Set,Fitness,2999
+P020,Fitness Tracker,Fitness,2299
+P021,Notebook,Stationery,299
+P022,Office Chair,Furniture,7499
+P023,Study Table,Furniture,5999
+P024,Monitor Stand,Furniture,1499
+P025,Desk Organizer,Furniture,699
+P026,Face Wash,Beauty,499
+P027,Shampoo,Beauty,599
+P028,Moisturizer,Beauty,799
+P029,Sunscreen,Beauty,699
+P030,Body Lotion,Beauty,549

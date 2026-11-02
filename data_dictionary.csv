@@ -1,0 +1,18 @@
+table_name,column_name,description
+customers,customer_id,Unique customer identifier
+customers,signup_date,Date the customer joined
+customers,country,Customer country
+customers,channel,Customer acquisition channel
+orders,order_id,Unique order identifier
+orders,customer_id,Customer who placed the order
+orders,order_date,Date of purchase
+orders,quantity,Number of units in the order
+orders,total_amount,Order revenue after discount
+order_items,order_id,Order identifier
+order_items,product_id,Product identifier
+order_items,quantity,Units of the product in the order
+order_items,unit_price,List price per unit
+products,product_id,Unique product identifier
+products,product_name,Product name
+products,category,Product category
+products,unit_price,Standard product price
